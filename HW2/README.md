@@ -1,7 +1,8 @@
 Mustafa Aydoğan
 191101002
 
-Odevde bizden istenen klasik Dining Philosophers problemini modellemektir.Ancak ufak bir fark vardır.
+Odevde bizden istenen klasik Dining Philosophers problemini modellemektir. Ancak ufak bir fark vardır.
+
 Klasik problemdeki HUNGRY-EATING-THINKING dongusu HUNGRY-BUTTERMILK-EATING-THINKING olacak sekilde program yazilmistir.
 Problemde bir de surahi vardir. Surahideki ayran bitince philosopherlarin o turda yedigi porsiyon sayisi ekrana basilacaktir ve random sayida bardak ile surahi doldurulacaktir.
 
